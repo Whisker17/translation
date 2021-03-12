@@ -12,7 +12,7 @@
 
 ## 目录
 
-- [什么是非同质化 token ?](#什么是非同质化-token-?)
+- [什么是非同质化 token](#什么是非同质化-token)
   - Blockchain-based non-fungible tokens
     - [Standardization](https://opensea.io/blog/guides/non-fungible-tokens/#Standardization)
     - [Interoperability](https://opensea.io/blog/guides/non-fungible-tokens/#Interoperability)
@@ -62,4 +62,4 @@
   - [NFT Distribution](https://opensea.io/blog/guides/non-fungible-tokens/#NFT_Distribution)
   - [What’s next for NFTs? Our 2020 predictions](https://opensea.io/blog/guides/non-fungible-tokens/#Whats_next_for_NFTs_Our_2020_predictions)
 
-### 什么是非同质化 token ?
+### 什么是非同质化 token
