@@ -12,7 +12,7 @@
 
 ## 目录
 
-- [什么是非同质化 token ?](#什么是非同质化_token_?)
+- [什么是非同质化 token ?](#什么是非同质化-token-?)
   - Blockchain-based non-fungible tokens
     - [Standardization](https://opensea.io/blog/guides/non-fungible-tokens/#Standardization)
     - [Interoperability](https://opensea.io/blog/guides/non-fungible-tokens/#Interoperability)
