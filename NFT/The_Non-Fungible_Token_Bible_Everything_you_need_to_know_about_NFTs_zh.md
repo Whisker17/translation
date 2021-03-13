@@ -1,5 +1,9 @@
 # 非同质化 token 圣经：你所要知道的关于 NFT 的所有事
 
+原文链接：[The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/#Blockchain-based_non-fungible_tokens)
+
+原文作者：Devin Finzer
+
 ![image-20210312234541142](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210312234542.png)
 
 > 非同质化 token (NFTs)是独特的、拥有区块链管理所有权的数字资产。例如收藏品、游戏道具、数字艺术品、活动门票、域名，甚至实体资产的所有权记录。
@@ -63,3 +67,9 @@
   - [What’s next for NFTs? Our 2020 predictions](https://opensea.io/blog/guides/non-fungible-tokens/#Whats_next_for_NFTs_Our_2020_predictions)
 
 ### 什么是非同质化 token
+
+> 非同质化 token 资产只是正常的东西。而同质化资产才是奇怪的！
+
+大多数关于非同质化 token 的讨论都是从引入同质化的概念开始的，同质化定义为 “能够替换或被另一个相同的资产所替换” 。我们认为这把事情复杂化了。为了更好地理解什么可能构成非同质化资产，只要想想你所拥有的大部分东西。你坐的椅子，你的手机，你的笔记本电脑，任何你可以在 eBay 上出售的东西。所有这些都属于不可替代的东西。
+
+![image-20210313104752826](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210313104801.png)
