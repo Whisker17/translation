@@ -152,7 +152,7 @@ interface ERC1155 {
 
 另请注意， ERC1155 是一个提供了 ERC721 功能的超集，这意味着可以使用 ERC1155 来构建 ERC721 资产（您只需为每个资产分配一个单独的 ID 和数量 1）。 由于这些优势，我们最近目睹了 ERC1155标准被越来越多的采用。 OpenSea 最近在 Github 上开发了一个 [repo](https://github.com/ProjectOpenSea/opensea-erc1155) ，以开始使用 ERC1155 标准。
 
-![ERC20，ERC721 和 ERC1155 标准的剖析。 ERC20 将地址映射到金额，ERC721 将唯一的 ID 映射到所有者，而 ERC1155 具有将 ID 映射到所有者到金额的嵌套映射。](/home/whisker/.config/Typora/typora-user-images/image-20210315165832735.png)
+![ERC20，ERC721 和 ERC1155 标准的剖析。 ERC20 将地址映射到金额，ERC721 将唯一的 ID 映射到所有者，而 ERC1155 具有将 ID 映射到所有者到金额的嵌套映射。](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210315200923.png)
 
 ##### 可组合资产
 
@@ -168,7 +168,7 @@ interface ERC1155 {
 
 正如之前提到的，`ownerOf` 方法提供了一种查找 NFT 所有者的方法。 例如，通过在 [CryptoKitties 智能合约](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#readContract)上查询 `ownerOf（1500718）` ，我们可以看到在写下本文时 CryptoKitty #1500718 的所有者是一个地址为 0x6452... 的帐户。这可以通过在 [OpenSea](https://opensea.io/assets/0x06012c8cf97bead5deae237070f9587f8e7a266d/1500718) 或 [CryptoKitties.co](https://www.cryptokitties.co/kitty/1500718) 访问其 CryptoKitty 来验证。
 
-![image-20210315181757317](/home/whisker/.config/Typora/typora-user-images/image-20210315181757317.png)
+![image-20210315200942227](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210315200943.png)
 
 但是，OpenSea 和 CryptoKitties 如何知道 CryptoKitty＃1500718 长什么样呢？ 而且如何知道它的名字和特殊属性？
 
@@ -183,3 +183,37 @@ interface ERC1155 {
 ```
 
 问题在于如何和在何处存储此数据，以便关注 NFT 的应用程序可以访问它。
+
+#### 链上和链下的对比
+
+开发人员首先要决定是用什么元数据来表示链上和链下。也就是说，你是将元数据直接编码进表示 token 的智能合约中，还是单独托管它?
+
+##### 链上元数据
+
+在链上表示元数据的好处是：1) 它永久驻留在 token 中，在任何给定应用程序的生命周期之外保持，2) 它可以根据链上逻辑进行更改。如果资产想要拥有远超原始创造的持久价值，那么第 1 点很重要。例如，一件数字艺术作品被认为可以保存到各个时代，不管最初用来创作艺术作品的网站是否还存在。因此，它的元数据必须与 token 标识符的生命周期保持一致。
+
+此外，链上逻辑可能需要与元数据交互。以 CryptoKitties 为例，CryptoKitties 的 “代数” 会影响 CryptoKitties 的繁殖速度，而繁殖过程是链式的(代数更高的猫繁殖速度较慢)。因此，智能合约内部的逻辑需要能够从其内部状态读取元数据。
+
+##### 链下元数据
+
+尽管链上元数据存在这些好处，大多数项目都是在链下存储元数据，这只是因为以太坊区块链当前的存储限制。因此， ERC721 标准包含一个名为 `tokenURI` 的方法，开发人员可以实现该方法来告诉应用程序在何处查找给定事物的元数据。
+
+```java
+function tokenURI(uint256 _tokenId) public view returns (string)
+```
+
+`tokenURI` 方法返回一个公共 URL 。这将返回一个 JSON 数据字典，类似于上面的 CryptoKitty 示例字典。这个元数据应该符合官方的 [ERC721 元数据标准](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)，以便 OpenSea 等应用程序能够使用它。在 OpenSea 上，我们希望让开发者能够构建更丰富的元数据，以便在我们的市场中显示，因此我们向 [ERC721 元数据标准添加了扩展](https://docs.opensea.io/docs/metadata-standards)，允许开发者去包含特征、动画和背景颜色等内容。
+
+![image-20210315214046901](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210315214048.png)
+
+#### 链下存储解决方案
+
+如果你在链下存储元数据，你有几个选择:
+
+##### 中心化服务器
+
+最简单的存储元数据的方法是在某个集中的服务器上，或者像AWS这样的云存储解决方案上。当然，这也有缺点:1)开发人员可以随意更改元数据;2)如果项目离线，元数据可能会从原始来源中消失。为了缓解问题2，现在有一些服务(包括OpenSea)将元数据缓存到自己的服务器上，以确保即使原始主机解决方案出现故障，也能有效地为用户提供服务。
+
+##### IPFS
+
+越来越多的开发者，尤其是数字艺术领域的开发者，正在使用星际文件系统(IPFS)在链外存储元数据。IPFS是一种点对点文件存储系统，允许跨计算机托管内容，这样文件就可以在许多不同的位置复制。这确保了A)元数据是不可变的，因为它是由文件的哈希唯一寻址的，并且B)只要有节点愿意托管数据，数据就会随着时间持续存在。现在有像Pinata这样的服务，通过处理部署和管理IPFS节点的基础设施，使开发人员的这一过程更简单，而备受期待的 Filecoin 网络(理论上)将在IPFS上添加一层，以激励节点托管文件。
