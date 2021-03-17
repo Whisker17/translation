@@ -251,18 +251,24 @@ CryptoKitties 成功的另一个因素就是[这个故事写的那样](https://t
 
 这些因素导致了“ CryptoKitty 泡沫” ：进入 CryptoKitty 世界的新需求，价格上涨以及价格上涨带来了新需求。当然，所有泡沫最终都必会破灭。 12 月初，小猫的平均价格开始下降，数量下降。许多人意识到，相对于 “真实游戏” 而言，CryptoKitties 游戏本来就很原始，不会吸引更多的投机者。一旦新奇感消失了，市场就蒙受了损失。如今，CryptoKitties 每周的交易量约为 50 ETH 。
 
-![image-20210317144031895](/home/whisker/.config/Typora/typora-user-images/image-20210317144031895.png)
+![image-20210317220531340](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317220544.png)
 
-![image-20210317144106708](/home/whisker/.config/Typora/typora-user-images/image-20210317144106708.png)
+![image-20210317220554585](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317220555.png)
 
 #### 2018年：炒作，棘手的游戏以及 layer 2
 
 尽管市场低迷，但CryptoKitties的成立为许多人提供了一个神奇的时刻。 第一次，一个团队部署了一个基于非金融区块链的应用程序，该应用程序已经进入了技术主流，尽管只有几个星期。 在CryptoKitties之后，随着投资者和企业家开始思考拥有数字资产的新方式，NFT在2018年初经历了第二次小规模炒作。
 
-![image-20210317150718825](/home/whisker/.config/Typora/typora-user-images/image-20210317150718825.png)
+![image-20210317220625250](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317220626.png)
 
 ##### layer 2 的游戏及其体验
 
-在CryptoKitties出现了创新的“第二层”游戏之后的那个时期，这种游戏是由第三方开发人员在CryptoKitties之上构建的，与原始CryptoKitties团队没有任何关系。 CryptoKitties的魔力在于可以“无条件”开发这些体验：开发人员可以简单地将他们自己的应用程序置于公共CryptoKitty智能合约之上。从某种意义上讲，CryptoKitty可以在原始环境之外拥有自己的生活。例如，Kitty Race允许您将CryptoKitties相互竞争以赢得ETH，而KittyHats则允许用户使用帽子和绘画来装饰自己的CryptoKitties。后来，Wrapped Kitties让Kitty和DeFi结合起来，让您将CryptoKitties转换为可替代的ERC20代币，以便在去中心化交易所进行交易，这对CryptoKitty市场产生了各种有趣的影响。 Dapper Labs（CryptoKitties背后的新成立公司）通过KittyVerse的成立拥抱了这些项目。
+在 CryptoKitties 出现了创新的 [“layer 2” 游戏](https://www.coindesk.com/the-emerging-trends-in-the-blockchain-gaming-world)之后的那个时期，这种游戏是由第三方开发人员在 CryptoKitties 之上构建的，与原始 CryptoKitties 团队没有任何关系。 CryptoKitties 的魔力在于可以 “无准入机制地” 开发这些体验：开发人员可以简单地将他们自己的应用程序置于公共 CryptoKitty 智能合约之上。从某种意义上讲， CryptoKitty 可以在原始环境之外拥有自己的生活。例如，[Kitty Race](https://kittyrace.com/) 允许您的 CryptoKitties 通过相互竞争以赢得 ETH ，而 [KittyHats](https://kittyhats.co/#/) 则允许用户使用帽子和绘画来装饰自己的 CryptoKitties 。后来， [Wrapped Kitties](https://wrappedkitties.com/) 让 Kitty 和 [DeFi](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4) 结合起来，让您将 CryptoKitties 转换为同质化的 ERC20 代币，以便在去中心化交易所进行交易，这对 CryptoKitty 市场产生了各种有趣的影响。 Dapper Labs（ CryptoKitties 背后的新成立公司）成立了 [KittyVerse](https://www.cryptokitties.co/kittyverse) ，以拥抱这些项目。
 
-![image-20210317150825998](/home/whisker/.config/Typora/typora-user-images/image-20210317150825998.png)
+![image-20210318000227986](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210318000229.png)
+
+##### 棘手的问题
+
+这一时期也出现了 “烫手山芋般” 的游戏。如果你已经知道什么是 “烫手山芋般” 的游戏，那你就是一个真正的 NFT 的老炮儿了。2018 年 1 月，一款名为 CryptoCelebrities 的游戏发布。它的机制很简单。首先，买一个可以收藏的明星 NFT 。当即，明星就变成了可以以更高的价格购买(或 “可掠夺” )的，这是之前价格的增量。当有人购买了你的明星，你就可以在你的购买价格和新购买价格之间做出调整(减去开发者费用)。只要有人愿意买你的明星，你就会获利。然而，如果你被发现是最后一个拥有明星的人，你就惨了。
+
+由于这种投机机制，CryptoCelebrity 机制被证明了是一种难以置信的病毒式传播，像 [Donald Trump](https://opensea.io/assets/0xbb5ed1edeb5149af3ab43ea9c7a6963b3c1374f7/271) 这样的明星以天文数字的高价出售( 123 ETH，当时约合 13.7 万美元)。虽然 CryptoCelebrity 游戏可能会损害整个空间，但实际上我们认为，对定价和拍卖机制的试验是 NFTs 设计空间中令人兴奋的一部分。
