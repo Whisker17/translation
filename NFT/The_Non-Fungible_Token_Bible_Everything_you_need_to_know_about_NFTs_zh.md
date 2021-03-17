@@ -216,4 +216,20 @@ function tokenURI(uint256 _tokenId) public view returns (string)
 
 ##### IPFS
 
-越来越多的开发者，尤其是数字艺术领域的开发者，正在使用[星际文件系统(IPFS)](https://ipfs.io/)在链下存储元数据。IPFS是一种点对点文件存储系统，允许跨计算机托管内容，这样文件就可以在许多不同的位置复制。这确保了A)元数据是不可变的，因为它是由文件的哈希唯一寻址的，并且B)只要有节点愿意托管数据，数据就会随着时间持续存在。现在有像Pinata这样的服务，通过处理部署和管理IPFS节点的基础设施，使开发人员的这一过程更简单，而备受期待的 Filecoin 网络(理论上)将在IPFS上添加一层，以激励节点托管文件。
+越来越多的开发者，尤其是数字艺术领域的开发者，正在使用[星际文件系统(IPFS)](https://ipfs.io/)在链下存储元数据。IPFS 是一种点对点文件存储系统，允许跨计算机托管内容，这样文件就可以在许多不同的位置被复制调用。这确保了 A) 元数据是不可变的，因为它是由文件的哈希唯一寻址的，并且 B) 只要有节点愿意托管数据，数据就会随着时间持续存在。现在有像 [Pinata](https://pinata.cloud/) 这样的服务，通过处理部署和管理 IPFS 节点的基础设施，使开发人员的这一过程更简单，而[备受期待的 Filecoin 网络](https://docs.filecoin.io/go-filecoin-tutorial/Storing-on-Filecoin.html#table-of-contents)(理论上)将在 IPFS 上添加一层，以激励节点托管文件。
+
+### 非同质化 token 的历史（2017-2020）
+
+既然我们了解了什么是非同质化 token 以及如何构建它们，那么让我们深入了解它们是怎么来的。
+
+#### — 公元 0 年：在 CryptoKitties 之前
+
+NFT 的实验始于比特币网络上[彩色硬币](https://en.bitcoin.it/wiki/Colored_Coins)的出现。在比特币交易对手系统上构建的青蛙角色佩佩(Pepe the Frog)插画，Rare Pepes是首批作品之一。
+其中一些在eBay上出售，还有一组罕见的佩佩管后来在纽约的现场拍卖会上出售。
+
+第一个基于以太坊的非加密实验是CryptoPunks，它由1万个独特的可收集朋克组成，每个朋克都有一组独特的特征。
+CryptoPunks由Larva Labs打造，以链上市场为特点，可用于MetaMask等钱包，降低了与nft交互的准入门槛。
+如今，由于CryptoPunks的供应有限，并且在早期用户社区中拥有强大的品牌，CryptoPunks可能是真正的数字古董的最佳选择。
+此外，朋克生活在以太坊网络上的事实使他们可以与市场和钱包互操作(尽管略低于新资产，因为它们早于ERC721标准)。
+
+![image-20210317124726352](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317124737.png)
