@@ -224,12 +224,45 @@ function tokenURI(uint256 _tokenId) public view returns (string)
 
 #### — 公元 0 年：在 CryptoKitties 之前
 
-NFT 的实验始于比特币网络上[彩色硬币](https://en.bitcoin.it/wiki/Colored_Coins)的出现。在比特币交易对手系统上构建的青蛙角色佩佩(Pepe the Frog)插画，Rare Pepes是首批作品之一。
-其中一些在eBay上出售，还有一组罕见的佩佩管后来在纽约的现场拍卖会上出售。
+NFT 的实验始于比特币网络上[彩色硬币](https://en.bitcoin.it/wiki/Colored_Coins)的出现。在比特币交易对手系统上构建的青蛙角色 PePe 插画，[Rare Pepes](http://rarepepedirectory.com/) 是首批作品之一。
+其中一些在 [eBay 上出售](https://www.dailydot.com/unclick/rare-pepe-frog-meme-economy/)，还有一组罕见的青蛙 PePe 组合后来[在纽约的现场拍卖会上出售](https://www.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)。
 
-第一个基于以太坊的非加密实验是CryptoPunks，它由1万个独特的可收集朋克组成，每个朋克都有一组独特的特征。
-CryptoPunks由Larva Labs打造，以链上市场为特点，可用于MetaMask等钱包，降低了与nft交互的准入门槛。
-如今，由于CryptoPunks的供应有限，并且在早期用户社区中拥有强大的品牌，CryptoPunks可能是真正的数字古董的最佳选择。
-此外，朋克生活在以太坊网络上的事实使他们可以与市场和钱包互操作(尽管略低于新资产，因为它们早于ERC721标准)。
+第一个基于以太坊的 NFT 实验是 [CryptoPunks](https://www.larvalabs.com/cryptopunks)，它由 1 万个独特的可收集朋克组成，每个朋克都有一组独特的特征。CryptoPunks 由 [Larva Labs](https://larvalabs.com/) 打造，以链上市场为特点，可用于 MetaMask 等钱包，降低了与 NFT 交互的准入门槛。现如今，由于 CryptoPunks 的供应有限，并且在早期用户社区中拥有强大的品牌， CryptoPunks 可能是真正的数字古董的最佳选择。此外，在以太坊网络上的朋克生活使他们可以与市场和钱包互操作(由于它们早于 ERC721 标准，所以比起新资产不那么吸引人)。
 
 ![image-20210317124726352](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317124737.png)
+
+#### 公元 0 年：CryptoKitties 的诞生
+
+[CryptoKitties](https://cryptokitties.co/) 是第一个将 NFT 纳入主流的项目。 CryptoKitties 于 2017 年末在 ETH Waterloo hackathon 上推出，其特色在于这是一个原生的链上游戏，允许用户将数字猫一起繁殖以生产出稀有程度不同的新猫。在一次[荷兰式拍卖行](https://www.investopedia.com/terms/d/dutchauction.asp)中， “ 第 0 代” 猫被拍卖了，与此同时新猫也可以在二级市场上出售。
+
+尽管游戏社区中的一些人后来将 CryptoKitties 标记为 “不是真正的游戏” ，但鉴于区块链的设计约束，该团队实际上在开拓链上游戏机制方面做了很多工作。为此，他们建立了一种链上繁殖算法，该算法隐藏在确定猫的遗传密码的闭源智能合约中（反过来又确定了猫的 “类别” ）。 CryptoKitties 团队甚至还通过[复杂的激励系统](https://medium.com/cryptokitties/why-love-isnt-free-for-cryptokitties-7cc00dd2bf6d)确保了繁殖的随机性，并且具有预见性，可以保留某些小 ID 的猫，以便以后用作促销工具。最后，他们开创了荷兰式拍卖的智能合同，后来成为 NFT 的主要价格发现机制之一。 CryptoKitties 团队卓越的远见卓识为 NFT 空间的发展提供了巨大的推动力。
+
+我们认为 CryptoKitties 的病毒性可以归结为：
+
+##### 投机机制
+
+CryptoKitties 的繁殖和交易机制带来了一条清晰的获利途径：买几只猫，将它们繁殖成一只稀有的猫，将它转手，重复以上过程（或简单地买入一只稀有的猫，希望有人会来并购买）。这推动了繁殖者社区的发展：致力于繁殖和倒买倒卖稀有猫的用户。只要有新的用户进入并玩游戏，价格就会上涨。
+
+在市场最疯狂的时候，CryptoKitties 的交易量接近 5000 ETH，[Founder Cat＃18](https://opensea.io/assets/0x06012c8cf97bead5deae237070f9587f8e7a266d/18) 的售价为 253 ETH（当时价值 110000美元 ）。后来这笔交易被 [Dragon 的 600 ETH 交易](https://opensea.io/assets/0x06012c8cf97bead5deae237070f9587f8e7a266d/896775)所超越，当时的交易价格为 170000 美元（2018年9月），尽管许多人猜测 [Dragon 交易是非法的](https://thenextweb.com/hardfork/2018/09/05/most-expensive-cryptokitty/)。这些高昂的价格吸引了更多的用户进入淘金热。
+
+##### 病毒式爆发的故事
+
+CryptoKitties 成功的另一个因素就是[这个故事写的那样](https://techcrunch.com/2017/12/03/people-have-spent-over-1m-buying-virtual-cats-on-the-ethereum-blockchain/)。 CryptoKitties 既可爱又可共享，而且很有趣，而购买 1000 美元的数字猫的想法是如此荒唐，以至于成为了一个好新闻。此外，智能合约继续一款 “以太坊” 的爆款应用，这本身就构成了一个故事。由于以太坊一次只能处理有限数量的交易（约 15 笔交易/秒），因此网络上的更高吞吐量导致 pending 状态的交易池的增长和 gas 价格的上涨。每日平均待处理交易从 1500 个交易增加到 11000 个交易。新的潜在猫买家支付天价费用，并需要最终等待数个小时才能确认交易。
+
+这些因素导致了“ CryptoKitty 泡沫” ：进入 CryptoKitty 世界的新需求，价格上涨以及价格上涨带来了新需求。当然，所有泡沫最终都必会破灭。 12 月初，小猫的平均价格开始下降，数量下降。许多人意识到，相对于 “真实游戏” 而言，CryptoKitties 游戏本来就很原始，不会吸引更多的投机者。一旦新奇感消失了，市场就蒙受了损失。如今，CryptoKitties 每周的交易量约为 50 ETH 。
+
+![image-20210317144031895](/home/whisker/.config/Typora/typora-user-images/image-20210317144031895.png)
+
+![image-20210317144106708](/home/whisker/.config/Typora/typora-user-images/image-20210317144106708.png)
+
+#### 2018年：炒作，棘手的游戏以及 layer 2
+
+尽管市场低迷，但CryptoKitties的成立为许多人提供了一个神奇的时刻。 第一次，一个团队部署了一个基于非金融区块链的应用程序，该应用程序已经进入了技术主流，尽管只有几个星期。 在CryptoKitties之后，随着投资者和企业家开始思考拥有数字资产的新方式，NFT在2018年初经历了第二次小规模炒作。
+
+![image-20210317150718825](/home/whisker/.config/Typora/typora-user-images/image-20210317150718825.png)
+
+##### layer 2 的游戏及其体验
+
+在CryptoKitties出现了创新的“第二层”游戏之后的那个时期，这种游戏是由第三方开发人员在CryptoKitties之上构建的，与原始CryptoKitties团队没有任何关系。 CryptoKitties的魔力在于可以“无条件”开发这些体验：开发人员可以简单地将他们自己的应用程序置于公共CryptoKitty智能合约之上。从某种意义上讲，CryptoKitty可以在原始环境之外拥有自己的生活。例如，Kitty Race允许您将CryptoKitties相互竞争以赢得ETH，而KittyHats则允许用户使用帽子和绘画来装饰自己的CryptoKitties。后来，Wrapped Kitties让Kitty和DeFi结合起来，让您将CryptoKitties转换为可替代的ERC20代币，以便在去中心化交易所进行交易，这对CryptoKitty市场产生了各种有趣的影响。 Dapper Labs（CryptoKitties背后的新成立公司）通过KittyVerse的成立拥抱了这些项目。
+
+![image-20210317150825998](/home/whisker/.config/Typora/typora-user-images/image-20210317150825998.png)
