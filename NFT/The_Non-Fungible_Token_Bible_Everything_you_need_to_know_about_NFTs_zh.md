@@ -287,43 +287,40 @@ OpenSea 获得了[适度的种子轮](https://opensea.io/blog/announcements/open
 
 在这个时候，艺术界开始对 NFT 产生兴趣。事实证明，数字艺术非常适合非同质化 token 。让实体艺术有价值的一个核心要素是，能够可靠地证明一件作品的所有权，并在某个地方展示它，这在数字世界中是从未有过的。一群兴奋的数字艺术家开始试验。
 
-与此同时，数字艺术平台也出现了。[SuperRare](https://superrare.co/) ， Known Origin, MakersPlace和Rare Art Labs都建立了致力于发布和发现数字艺术的平台。像JOY和Josie这样的其他艺术家也部署了自己的智能合约，在这个领域为自己创造了真正的品牌。
-拥有独特微支付系统的社交网络Cent成为人们分享和讨论加密艺术的热门社区。
+与此同时，数字艺术平台也出现了。[SuperRare](https://superrare.co/) ，[Known Origin](https://knownorigin.io/) ，[MakersPlace](https://makersplace.com/) 和 [Rare Art Labs](https://rareart.io/) 都建立了致力于发布和发现数字艺术的平台。像 [JOY](https://opensea.io/assets/joyworld-s2) 和 [Josie](https://opensea.io/assets/josie) 这样的其他艺术家也部署了自己的智能合约，在这个领域为自己创造了真正的品牌。拥有独特微支付系统的社交网络 [Cent](http://cent.co/) 成为人们分享和讨论加密艺术的热门社区。
 
 ![img](https://lh3.googleusercontent.com/sJ-5wTKPHUJNePVxCGRV4UTsOf8TvY6r0ML89J9EuDWNrA8CljGT9TAhCv9afmyJJI2s8QNKcvbXP5erh0EKBjwX)
 
 ##### NFT 铸币平台
 
-非功能性测试生成平台使得任何人都可以更容易地生成非功能性测试，无论他们是否具备部署智能合约的开发技能。
+NFT 铸币平台使得任何人都可以更容易地铸一个 NFT ，无论他们是否具备部署智能合约的开发技能。
 
-2018年年中，Digital Art Chain启动了一个项目，允许用户用上传的任何数字图像制作nft，这是该项目的第一个项目。
-同年，一个叫做大理石卡片的项目增加了一个有趣的变化，允许用户在一个叫做“大理石花纹”的过程中根据任何URL创建独特的数字卡片。
-这将根据URL的内容自动生成一个独特的设计和图像，并在数字艺术界引发了一些争议，以回应加密艺术的“大理石花纹”。
+2018 年年中， [Digital Art Chain](https://digitalartchain.com/) 启动了一个项目，允许用户用上传的任何数字图像制作 NFT ，这是该项目的第一个项目。同年，一个叫做 [Marble Cards](https://marble.cards/) 的项目增加了一个有趣的变化，允许用户在一个叫做 “marbling” 的过程中根据任何 URL 创建独特的数字卡片。这将根据 URL 的内容自动生成一个独特的设计和图像，并在数字艺术界引发了一些争议，以回应加密艺术的 “marbling” 。
 
-2019年，铸造工具显著成熟，尽管在新员工入职过程中仍面临摩擦。
-Mintbase和Mintable建立了站点，致力于让普通人更容易创建自己的NFTs。
-Kred平台让有影响力的人可以很容易地创建名片、收藏品和优惠券。
-Kred还与CoinDesk的共识会议合作，为与会者创建一个数字NFT“赠品包”项目。
-OpenSea创建了一个简单的店面管理器来部署智能合约，并在其中添加NFTs。
+2019 年，铸币工具显著成熟，尽管在管理过程中仍面临摩擦。 [Mintbase](https://mintbase.io/) 和 [Mintable](https://mintable.app/) 建立了各自的网站，致力于让普通人更容易创建自己的 NFTs 。 [Kred 平台](https://www.coin.kred/)让有影响力的人可以很容易地创建名片、收藏品和优惠券。 Kred 还与 CoinDesk 的[共识会议](https://www.coindesk.com/events/consensus-2019)合作，为参与者创建一个数字 NFT “赠品包” 项目。 OpenSea 创建了一个[简单的店面管理器](https://opensea.io/blog/developers/how-to-create-your-own-marketplace-on-opensea-in-three-minutes-or-less/)来部署智能合约，并在其中添加 NFTs 。
 
-**更新**：在2020年，这些平台的演变出现了，连同Rarible和Cargo，有更多的批量创建、可解锁内容和富媒体的功能。
-这使得艺术家、数字创造者甚至音乐家无需编写智能合约就可以创建nft。
-到今年年底，OpenSea不再需要支付与铸造相关的天然气费用，使得非功能性测试的制作免费。
+**更新**：在 2020 年，这些平台都有一定的进步，连同 [Rarible](https://rarible.com/) 和 [Cargo](https://app.cargo.build/) ，有更多的批量创建、可解锁内容和富媒体的功能。这使得艺术家、数字创造者甚至音乐家无需编写智能合约就可以创建 NFT 。到今年年底， OpenSea 不再需要支付与铸币相关的 Gas 费用，[使得 NFT 的制作免费](https://opensea.io/blog/announcements/introducing-the-collection-manager/)。
 
 ##### 传统 IP 正在走下坡路
 
-继CryptoKitties之后，传统IP所有者多次进入加密收藏领域。
-MLB与Lucid Sight合作，于2018年4月推出MLB Crypto，主要是一款链上棒球游戏。
-一级方程式赛车与Animoca Brands合作推出了F1DeltaTime，这款由OpenSea驱动的1-1-1赛车的售价为10万美元。
-《星际迷航》(Star Trek)在一款名为CryptoSpaceCommanders的游戏中推出了一组飞船，几家获得许可的足球交易卡公司也上线了，包括Stryking和Sorare。
-最近，最大的实体收藏品销售商之一帕尼尼美国(Panini America)宣布推出基于区块链的交易卡收藏品。
-MotoGP还与Animoca合作开发区块链游戏。
+继 CryptoKitties 之后，传统 IP 所有者多次进入加密收藏领域。 MLB 与 Lucid Sight 合作，于 2018 年 4 月推出 [MLB Crypto](https://fortune.com/2018/08/13/mlb-crypto-baseball-blockchain/) ，主要是一款链上棒球游戏。一级方程式赛车与 Animoca Brands 合作推出了 [F1DeltaTime](https://www.f1deltatime.com/) ，这款由 OpenSea 驱动的 [1-1-1 赛车的售价为 10 万美元](https://opensea.io/assets/0x3c62e8de798721963b439868d3ce22a5252a7e03/111)。《星际迷航》(Star Trek)在一款名为 [CryptoSpaceCommanders](https://opensea.io/assets/cryptospacecommanders) 的游戏中推出了一组飞船，几家获得许可的足球交易卡公司也上线了，包括 [Stryking](https://opensea.io/assets/stryking) 和 [Sorare](https://opensea.io/assets/sorare) 。最近，最大的实体收藏品销售商之一 [Panini America](https://en.wikipedia.org/wiki/Panini_Group) 宣布推出[基于区块链的交易卡收藏品](https://sludgefeed.com/panini-america-enters-blockchain-collectibles-market/)。 MotoGP [还与 Animoca 合作开发区块链游戏](https://www.coindesk.com/animoca-to-develop-motogp-blockchain-game-with-crypto-collectibles)。
 
 ##### 日本领衔行业
 
-日本游戏开创了更高级的用户玩法，吸引了早期用户群体。
-MyCryptoHeroes是一款具有复杂的游戏内部经济的RPG游戏，它登上了舞台，并继续在DappRadar的排行榜上名列前茅。
-《MyCryptoHeroes》是第一个将链上所有权与更复杂的链下玩法相结合的游戏。
-用户可以在游戏中使用他们的英雄，然后当他们想在二级市场上出售他们时，将他们转移到以太坊。
+日本游戏开创了更高级的用户玩法，吸引了早期用户群体。 MyCryptoHeroes ，一款具有复杂的游戏内部经济的 RPG 游戏，登上了舞台，并持续在 DappRadar 的排行榜上名列前茅。
+ MyCryptoHeroes 是第一个将链上所有权与更复杂的链下玩法相结合的游戏。用户可以在游戏中使用他们的英雄，然后当他们想在二级市场上出售他们时，将他们转移到以太坊。
 
 ![image-20210318134350588](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210318134402.png)
+
+##### 虚拟世界的扩大
+
+新的原生区块链虚拟世界启动了土地所有权和世界内资产的 NFT 。[Decentraland](https://decentraland.org/) 通过 ICO 为其 MANA token 筹集了 2500 万美元，启动了一项 1000 万美元的虚拟现实元宇宙土地销售。在 2018 年的大部分时间里， Decentraland 的 LAND NFT 的交易量超过了其他任何 NFT 。Decentraland 项目现在有了一个带有一些非常棒的早期体验的公测，如 [Battle Racers](https://battleracers.io/) ，这是一款可在游戏世界中玩的赛车游戏。
+
+> NFT Crypto News Tower in Decentraland – 最新销售的 OpenSea 顶级 Dapps！
+> 下面是公测地址： https://t.co/epU9Yd4FdI[@opensea](https://twitter.com/opensea?ref_src=twsrc^tfw) [@decentraland](https://twitter.com/decentraland?ref_src=twsrc^tfw) [@mycryptoheroes_](https://twitter.com/mycryptoheroes_?ref_src=twsrc^tfw) [@CryptoKitties](https://twitter.com/CryptoKitties?ref_src=twsrc^tfw) [@AxieInfinity](https://twitter.com/AxieInfinity?ref_src=twsrc^tfw) [@MLBChampions](https://twitter.com/MLBChampions?ref_src=twsrc^tfw) [@ChibiFighters](https://twitter.com/ChibiFighters?ref_src=twsrc^tfw) [@BlockchainCutie](https://twitter.com/BlockchainCutie?ref_src=twsrc^tfw) [@MixHyperDragons](https://twitter.com/MixHyperDragons?ref_src=twsrc^tfw) [#nft](https://twitter.com/hashtag/nft?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/BDsAQA61nc](https://t.co/BDsAQA61nc)
+>
+> *— NFT Crypto News (@NFTCrypto)* [August 4, 2019](https://twitter.com/NFTCrypto/status/1158087390814040064?ref_src=twsrc^tfw)
+
+另一个虚拟世界项目 [Cryptovoxels](https://www.cryptovoxels.com/) 采取了一种更精简的方法。 CryptoVoxels 在 2018 年年中推出了非常简单的由单个开发者领导的 webVR 体验，它逐渐扩大了自己的领域，谨慎的不出售超过需求的土地。如今， CryptoVoxels 的交易量已经超过 1700 ETH，土地的平均价格也在稳步上升。
+
+![ CryptoVoxels 世界的数字艺术博物馆。点击[这里](https://www.cryptovoxels.com/play?coords=NE@83E,1U,237S)访问。](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319000334.png)
