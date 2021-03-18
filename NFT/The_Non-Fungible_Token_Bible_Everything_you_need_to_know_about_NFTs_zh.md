@@ -267,8 +267,63 @@ CryptoKitties 成功的另一个因素就是[这个故事写的那样](https://t
 
 ![image-20210318000227986](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210318000229.png)
 
-##### 棘手的问题
+###### 棘手的问题
 
 这一时期也出现了 “烫手山芋般” 的游戏。如果你已经知道什么是 “烫手山芋般” 的游戏，那你就是一个真正的 NFT 的老炮儿了。2018 年 1 月，一款名为 CryptoCelebrities 的游戏发布。它的机制很简单。首先，买一个可以收藏的明星 NFT 。当即，明星就变成了可以以更高的价格购买(或 “可掠夺” )的，这是之前价格的增量。当有人购买了你的明星，你就可以在你的购买价格和新购买价格之间做出调整(减去开发者费用)。只要有人愿意买你的明星，你就会获利。然而，如果你被发现是最后一个拥有明星的人，你就惨了。
 
 由于这种投机机制，CryptoCelebrity 机制被证明了是一种难以置信的病毒式传播，像 [Donald Trump](https://opensea.io/assets/0xbb5ed1edeb5149af3ab43ea9c7a6963b3c1374f7/271) 这样的明星以天文数字的高价出售( 123 ETH，当时约合 13.7 万美元)。虽然 CryptoCelebrity 游戏可能会损害整个空间，但实际上我们认为，对定价和拍卖机制的试验是 NFTs 设计空间中令人兴奋的一部分。
+
+##### 风险资本利息
+
+2018年初，风险资本和加密基金也对 NFT 领域产生了好奇。CryptoKitties 从[顶级投资者那里筹集了 1200 万美元](https://techcrunch.com/2018/03/20/cryptokitties-raises-12m-from-andreessen-horowitz-and-union-square-ventures/)，去年 11 月又[筹集了 1500 万美元](https://fortune.com/2018/11/01/cryptokitties-samsung-google-venrock/)。由 Farmville 联合创始人创建的 Rare Bits 公司在 2018 年初筹集了 600 万美元，区块链游戏工作室 Lucid Sight 也[筹集了600万美元](https://venturebeat.com/2019/04/02/lucid-sight-raises-6-million-to-take-blockchain-games-to-traditional-platforms/)。后来， [Forte 与 Ripple 共同募集了 1 亿美元的区块链游戏基金](https://venturebeat.com/2019/03/12/forte-and-ripple-form-100-million-fund-for-mainstream-blockchain-games/)。Immutable( Gods Unchained 背后的公司)[从 Naspers Ventures 和 Galaxy Digital 融资 1500 万美元](https://www.bloomberg.com/press-releases/2019-09-23/immutable-raises-15-million-in-series-a-funding-from-naspers-ventures-and-galaxy-digital-eos-vc-fund)。在 Javelin Venture Partners 的带领下，神话游戏公司为 EOS 上的一款[旗舰游戏 Blankos Block Party 筹集了 1900 万美元](https://venturebeat.com/2019/11/20/mythical-games-raises-19-million-for-blockchain-based-games-with-player-owned-economies/)。
+
+OpenSea 获得了[适度的种子轮](https://opensea.io/blog/announcements/opensea-raises-2-million/)和战略投资，以进一步推进我们的愿景，建设一个普遍的开放市场。非常感谢我们所有的投资者!
+
+#### 2018-2019：回归基础建设
+
+在 2018 年初经历了一个小规模的炒作周期后，NFT 项目稳定下来，人们又重新开始基础建设。像 [Axie Infinity](https://axieinfinity.com/) 和 [Neon District](https://www.neondistrict.io/) 这样的团队（在 CryptoKitties 成立后不久就开始了他们的创业之路）在他们的核心粉丝群体上投入了双倍的资金。 [NonFungible.com](http://nonfungible.com/) 为 NFT 市场建立了一个跟踪平台，并巩固了 “非同质化” 一词作为描述新资产类别的主要术语。
+
+##### 数字艺术
+
+在这个时候，艺术界开始对 NFT 产生兴趣。事实证明，数字艺术非常适合非同质化 token 。让实体艺术有价值的一个核心要素是，能够可靠地证明一件作品的所有权，并在某个地方展示它，这在数字世界中是从未有过的。一群兴奋的数字艺术家开始试验。
+
+与此同时，数字艺术平台也出现了。[SuperRare](https://superrare.co/) ， Known Origin, MakersPlace和Rare Art Labs都建立了致力于发布和发现数字艺术的平台。像JOY和Josie这样的其他艺术家也部署了自己的智能合约，在这个领域为自己创造了真正的品牌。
+拥有独特微支付系统的社交网络Cent成为人们分享和讨论加密艺术的热门社区。
+
+![img](https://lh3.googleusercontent.com/sJ-5wTKPHUJNePVxCGRV4UTsOf8TvY6r0ML89J9EuDWNrA8CljGT9TAhCv9afmyJJI2s8QNKcvbXP5erh0EKBjwX)
+
+##### NFT 铸币平台
+
+非功能性测试生成平台使得任何人都可以更容易地生成非功能性测试，无论他们是否具备部署智能合约的开发技能。
+
+2018年年中，Digital Art Chain启动了一个项目，允许用户用上传的任何数字图像制作nft，这是该项目的第一个项目。
+同年，一个叫做大理石卡片的项目增加了一个有趣的变化，允许用户在一个叫做“大理石花纹”的过程中根据任何URL创建独特的数字卡片。
+这将根据URL的内容自动生成一个独特的设计和图像，并在数字艺术界引发了一些争议，以回应加密艺术的“大理石花纹”。
+
+2019年，铸造工具显著成熟，尽管在新员工入职过程中仍面临摩擦。
+Mintbase和Mintable建立了站点，致力于让普通人更容易创建自己的NFTs。
+Kred平台让有影响力的人可以很容易地创建名片、收藏品和优惠券。
+Kred还与CoinDesk的共识会议合作，为与会者创建一个数字NFT“赠品包”项目。
+OpenSea创建了一个简单的店面管理器来部署智能合约，并在其中添加NFTs。
+
+**更新**：在2020年，这些平台的演变出现了，连同Rarible和Cargo，有更多的批量创建、可解锁内容和富媒体的功能。
+这使得艺术家、数字创造者甚至音乐家无需编写智能合约就可以创建nft。
+到今年年底，OpenSea不再需要支付与铸造相关的天然气费用，使得非功能性测试的制作免费。
+
+##### 传统 IP 正在走下坡路
+
+继CryptoKitties之后，传统IP所有者多次进入加密收藏领域。
+MLB与Lucid Sight合作，于2018年4月推出MLB Crypto，主要是一款链上棒球游戏。
+一级方程式赛车与Animoca Brands合作推出了F1DeltaTime，这款由OpenSea驱动的1-1-1赛车的售价为10万美元。
+《星际迷航》(Star Trek)在一款名为CryptoSpaceCommanders的游戏中推出了一组飞船，几家获得许可的足球交易卡公司也上线了，包括Stryking和Sorare。
+最近，最大的实体收藏品销售商之一帕尼尼美国(Panini America)宣布推出基于区块链的交易卡收藏品。
+MotoGP还与Animoca合作开发区块链游戏。
+
+##### 日本领衔行业
+
+日本游戏开创了更高级的用户玩法，吸引了早期用户群体。
+MyCryptoHeroes是一款具有复杂的游戏内部经济的RPG游戏，它登上了舞台，并继续在DappRadar的排行榜上名列前茅。
+《MyCryptoHeroes》是第一个将链上所有权与更复杂的链下玩法相结合的游戏。
+用户可以在游戏中使用他们的英雄，然后当他们想在二级市场上出售他们时，将他们转移到以太坊。
+
+![image-20210318134350588](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210318134402.png)
