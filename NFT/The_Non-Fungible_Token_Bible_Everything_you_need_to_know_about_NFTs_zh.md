@@ -336,8 +336,14 @@ CryptoVoxels (以及 Decentraland )最令人兴奋的元素是能够在数字世
 从一开始，交易卡牌游戏就很[适合 NFT](https://opensea.io/blog/trading-cards/sell-hearthstone-cards/) 。像[《万智牌》](https://magic.wizards.com/en)这样的实体纸牌游戏不只是一款游戏。它是一个[完整的经济体系](https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/689056-total-mtg-market-cap-secondary-market)，有几十个用于买卖和物物交换的相关网站和市场。虽然万智牌的数字版本，如[《炉石传说》](https://playhearthstone.com/en-us/)，理论上可以为其纸牌建立一个游戏内置市场，但这种做法可能会很麻烦，而且不一定与销售新卡包的商业模式相一致。
 区块链使即时二级市场可以在游戏之外运作。
 
-在进行了 500 万美元的卡片预售之后， [Immutable](https://immutable.com/) 发行了[《Gods Unchained》](https://opensea.io/assets/gods-unchained)，这大概是目前市场上最受追捧的区块链游戏。
-当数字交易卡牌游戏《炉石传说》(Hearthstone)禁止一名职业玩家进入主流游戏领域时，他们进入了主流游戏的视线。
-被释放的神作了如下声明:
+在进行了 500 万美元的卡片预售之后， [Immutable](https://immutable.com/) 发行了[《Gods Unchained》](https://opensea.io/assets/gods-unchained)，这大概是目前市场上最受追捧的区块链游戏。当数字交易卡牌游戏《炉石传说》(Hearthstone)对一名由于参与香港政治斗争的职业玩家禁赛后，他们进入了主流游戏的视线。
+Gods Unchained 了如下声明:
 
 ![image-20210319103352229](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319103353.png)
+
+在游戏发布之前，众神在很长一段时间内释放了团队“锁定”卡牌(这是允许的偏离ERC721核心功能)。
+在此期间，第三方市场允许用户出售卡片，但不能真正购买，因为卡片不能转让。
+当去年11月银行卡解锁时，the Gods Unchained市场突然开放，逾130万美元的二级交易量涌出。
+
+其他几款纸牌游戏也已悄然吸引了大批忠实粉丝。
+地平线游戏公司(Horizon Games)的Skyweaver从初始化公司(Initialized)获得了375万美元的种子轮融资，并发布了公测版本。epic成为第一个基于区块链的收集型电子竞技交易卡牌，而来自日本的交易卡牌游戏cryptospells在日本交易卡牌市场领先。
