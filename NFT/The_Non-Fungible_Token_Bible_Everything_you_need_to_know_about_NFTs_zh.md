@@ -324,3 +324,20 @@ NFT 铸币平台使得任何人都可以更容易地铸一个 NFT ，无论他�
 另一个虚拟世界项目 [Cryptovoxels](https://www.cryptovoxels.com/) 采取了一种更精简的方法。 CryptoVoxels 在 2018 年年中推出了非常简单的由单个开发者领导的 webVR 体验，它逐渐扩大了自己的领域，谨慎的不出售超过需求的土地。如今， CryptoVoxels 的交易量已经超过 1700 ETH，土地的平均价格也在稳步上升。
 
 ![ CryptoVoxels 世界的数字艺术博物馆。点击[这里](https://www.cryptovoxels.com/play?coords=NE@83E,1U,237S)访问。](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319000334.png)
+
+CryptoVoxels (以及 Decentraland )最令人兴奋的元素是能够在数字世界中展示你的 NFT 。收藏爱好者已经创建了 CryptoKitty 博物馆、赛博朋克艺术画廊、NFT 日历、充满顶级 NFT 项目的塔，以及虚拟世界商店，在那里你可以为自己的化身购买可穿戴的物品。Cryppovoxels 环境在数字艺术家中迅速发展，尤其是在 [Cent](https://cent.co/) 的用户中。Cent 是一个新的内容平台，专注于加密人群。一些艺术家甚至使用 [Roll](http://tryroll.com/) 创造他们自己的货币，或者 “社交货币” ， Roll 是一款应用程序，可以方便地部署新的 ERC20 代币，并将他们的作品以他们的社交货币出售。
+
+其他的虚拟世界项目也已经进入了这个领域，包括 [Somnium Space](https://somniumspace.com/) 和 [High Fidelity](http://highfidelity.com/) ，一个由 [Second Life](https://secondlife.com/) 的创造者开发的项目。最近，[The Sandbox](https://www.sandbox.game/en/) 为其类似 roblox 宇宙推出了一项土地出售活动，旨在为建造者和内容创造者提供支持。这是近期最受期待的区块链游戏之一。
+
+2017 年末，[Enjin](https://enjin.io/) 在其 ICO 上筹集了 75041 个ETH，并扩展了其 “multiverse” 平台，这是一个基于 ERC1155 标准的游戏生态系统。 Enjin 的核心价值主张之一是能够轻松地将道具从一款游戏带到另一款游戏中。例如， Enjin 团队发布了一款 “通用的” (不是针对特定游戏) [Oindrasdain Axe](https://opensea.io/assets/0xfaafdc07907ff5120a76b34b731b278c38d6043c/36411184310952944508859562575390614563768575651911745716961922930335654352507) 。[遗忘神器](https://forgottenartifacts.io/)在游戏中添加了这把斧头作为装备武器，给已经拥有它的玩家一个理由来试玩他们的游戏。
+
+##### 交易卡牌游戏
+
+从一开始，交易卡牌游戏就很[适合 NFT](https://opensea.io/blog/trading-cards/sell-hearthstone-cards/) 。像[《万智牌》](https://magic.wizards.com/en)这样的实体纸牌游戏不只是一款游戏。它是一个[完整的经济体系](https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/689056-total-mtg-market-cap-secondary-market)，有几十个用于买卖和物物交换的相关网站和市场。虽然万智牌的数字版本，如[《炉石传说》](https://playhearthstone.com/en-us/)，理论上可以为其纸牌建立一个游戏内置市场，但这种做法可能会很麻烦，而且不一定与销售新卡包的商业模式相一致。
+区块链使即时二级市场可以在游戏之外运作。
+
+在进行了 500 万美元的卡片预售之后， [Immutable](https://immutable.com/) 发行了[《Gods Unchained》](https://opensea.io/assets/gods-unchained)，这大概是目前市场上最受追捧的区块链游戏。
+当数字交易卡牌游戏《炉石传说》(Hearthstone)禁止一名职业玩家进入主流游戏领域时，他们进入了主流游戏的视线。
+被释放的神作了如下声明:
+
+![image-20210319103352229](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319103353.png)
