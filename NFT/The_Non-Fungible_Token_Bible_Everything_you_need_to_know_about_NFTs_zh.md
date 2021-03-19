@@ -341,9 +341,43 @@ Gods Unchained 了如下声明:
 
 ![image-20210319103352229](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319103353.png)
 
-在游戏发布之前，众神在很长一段时间内释放了团队“锁定”卡牌(这是允许的偏离ERC721核心功能)。
-在此期间，第三方市场允许用户出售卡片，但不能真正购买，因为卡片不能转让。
-当去年11月银行卡解锁时，the Gods Unchained市场突然开放，逾130万美元的二级交易量涌出。
+在游戏发布之前，Gods Unchained 团队在很长一段时间内释放了团队“锁定”卡牌(这是有准入机制的偏离 ERC721 核心功能)。在此期间，第三方市场允许用户出售卡片，但不能真正购买，因为卡片不能转让。
+当去年 11 月卡牌解锁时， Gods Unchained 市场突然开放，逾 130 万美元的二级交易量涌出。
 
-其他几款纸牌游戏也已悄然吸引了大批忠实粉丝。
-地平线游戏公司(Horizon Games)的Skyweaver从初始化公司(Initialized)获得了375万美元的种子轮融资，并发布了公测版本。epic成为第一个基于区块链的收集型电子竞技交易卡牌，而来自日本的交易卡牌游戏cryptospells在日本交易卡牌市场领先。
+其他几款纸牌游戏也已悄然吸引了大批忠实粉丝。地平线游戏公司( Horizon Games )的 [Skyweaver](https://www.skyweaver.net/) [从母公司(Initialized)获得了 375 万美元的种子轮融资](https://www.businesswire.com/news/home/20190717005162/en/%C2%A0Horizon-Blockchain-Games-Reveals-3.75M-Seed-Led)，并发布了公测版本。 [Epic](https://epics.gg/) 成为[第一个基于区块链的收集型电子竞技交易卡牌](https://opensea.io/blog/exclusive-auctions/epics-trading-cards/)，而来自日本的交易卡牌游戏 Cryptospells 领衔日本交易卡牌市场。
+
+##### 去中心化域名服务
+
+NFT 的第三大 “资产类别” (仅次于游戏和数字艺术)是域名服务，类似于 “.com” 域名，但这是基于去中心化技术。
+[以太坊域名服务](https://ens.domains/)于 2017 年 5 月推出，由以太坊基金会资助，在 2017 年至 2018 年期间，有 17 万个以太坊域名被锁定(只要竞标者持有域名，成功竞标将被锁定在合同中)。2019 年 5 月，该团队将 ENS 智能合同升级为兼容 ERC721 ，这意味着域名可以原生支持在开放的 NFT 市场上交易。
+
+10 月，我们与[巴黎高等师范学院合作](https://opensea.io/blog/domains/the-ens-short-name-auction-is-starting-soon-on-opensea-3d110cd7a0ba/)，使用英文拍卖机制，拍卖 3 - 6 个字符的域名。总共有 50355 人对 7670 个域名出价。中标总价为 5698.97 ETH。点击[这里](https://medium.com/the-ethereum-name-service/the-most-popular-eth-names-in-the-ens-short-name-auction-final-5d3466dd8837)阅读拍卖会上一些有趣的统计数据。
+
+![image-20210319235344254](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319235345.png)
+
+最近， [Unstoppable Domains](https://unstoppabledomains.com/) 以一种更有风投支持的去中心域名系统的方式出现，[从 Draper Associates 和 Boost VC 那里筹集了 400 万美元的 A 轮融资](http://www.finsmes.com/2019/05/unstoppable-domains-raises-4m-in-series-a-funding.html)。最初建立在 Zilliqa 区块链之上，Unstoppable Domains 最近发布了 .crypto 域名作为 ERC721 资产。
+
+[Kred 团队](https://www.nft.kred/influencers/domain-token)正在研究兼容 ENS 和 DNS 的 NFT 。在您的钱包中持有一个 [Kred 域名 token](http://www.domains.kred/)，允许您在 DNS (链接到一个网站)和 ENS (链接到一个钱包或合同)上管理该名称。
+
+##### 其他试验
+
+虽然大多数关于 NFT 的试验都是以收集品和游戏的形式进行的，但是其他的用例也逐渐出现了。NFT.NYC 和 Token Summit 都以 NFTs 和 the Coin 的形式出售了他们活动的门票。Kred 团队为这次活动发布了一个 “NFT 赠品包” 。Binance 最近也加入了发布[节日收藏品](https://opensea.io/assets/binance)的行列，微软也发布了 [Azure Heroes](https://www.microsoft.com/en-ie/azureheroes) ，这是为 Azure 生态系统贡献者颁发的徽章。
+
+![北美的第一个 NFT 活动，NFT.NYC 2019，近 500 名参会者和 80 多名发言者在纽约市标志性的时代广场举行会议，讨论新兴的 NFT 金融系统。](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210319235859.png)
+
+奥地利邮政服务公司的加密邮票项目为购买官方实体邮票的人提供了一条进入数字收藏品世界的方便途径。
+每一枚邮票都有一个不透明的、可以刮掉的部分。
+在刮刮区下方，购买者会发现一个包含少量ETH和实体印章的数字副本的私钥，然后他们可以在OpenSea上出售这些私钥。
+这个项目特别有趣，因为它将数字资产的稀缺性与有用的实物资产联系起来，并吸引了现有的收藏者社区。
+
+CryptoKitties的开发商Dapper Labs推出了一款名为CheezeWizards的锦标赛游戏。
+有趣的是，由于智能合约的初始漏洞，游戏中有一个硬分叉导致了“未经巴氏消毒”和“巴氏消毒”向导的存在。
+具有复杂的链上游戏玩法，该项目强调需要更多的标准化围绕非功能性测试元数据，合同的可升级性，以及确保拍卖适当更新的能力，当项目的核心属性改变。
+
+##### 伤亡和复苏
+
+这几年并非没有伤亡。
+几乎所有2018年初的烫手山芋游戏现在都已消亡(尽管这些资产仍可在OpenSea上观看)。
+有趣的是，其中一些项目是由社区成员复活的。
+隐攻击和Ethermon(现在的Ethermon)都被他们的社区恢复了。
+通过名人繁育游戏让加密名人复活的尝试也失败了。
