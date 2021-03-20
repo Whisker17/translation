@@ -17,54 +17,54 @@
 ## 目录
 
 - [什么是非同质化 token](#什么是非同质化-token)
-  - Blockchain-based non-fungible tokens
-    - [Standardization](https://opensea.io/blog/guides/non-fungible-tokens/#Standardization)
-    - [Interoperability](https://opensea.io/blog/guides/non-fungible-tokens/#Interoperability)
-    - [Tradeability](https://opensea.io/blog/guides/non-fungible-tokens/#Tradeability)
-    - [Liquidity](https://opensea.io/blog/guides/non-fungible-tokens/#Liquidity)
-    - [Immutability and provable scarcity](https://opensea.io/blog/guides/non-fungible-tokens/#Immutability_and_provable_scarcity)
-    - [Programmability](https://opensea.io/blog/guides/non-fungible-tokens/#Programmability)
-- Non-fungible token standards
-  - [ERC721](https://opensea.io/blog/guides/non-fungible-tokens/#ERC721)
-  - ERC1155
-    - [Composables](https://opensea.io/blog/guides/non-fungible-tokens/#Composables)
-  - [Non-Ethereum standards](https://opensea.io/blog/guides/non-fungible-tokens/#Non-Ethereum_standards)
-- Non-fungible token metadata
-  - On-chain vs. off-chain
-    - [On-chain Metadata](https://opensea.io/blog/guides/non-fungible-tokens/#On-chain_Metadata)
-    - [Off-chain Metadata](https://opensea.io/blog/guides/non-fungible-tokens/#Off-chain_Metadata)
-  - Off-chain storage solutions
-    - [Centralized servers](https://opensea.io/blog/guides/non-fungible-tokens/#Centralized_servers)
-    - [IPFS](https://opensea.io/blog/guides/non-fungible-tokens/#IPFS)
-- History of non-fungible tokens (2017 – 2020)
-  - [– 0 BC: Before CryptoKitties](https://opensea.io/blog/guides/non-fungible-tokens/#_0_BC_Before_CryptoKitties)
-  - 0 BC: Birth of CryptoKitties
-    - [Speculative mechanics](https://opensea.io/blog/guides/non-fungible-tokens/#Speculative_mechanics)
-    - [Viral story](https://opensea.io/blog/guides/non-fungible-tokens/#Viral_story)
-  - 2018: Hype, hot-potato games, and layer 2
-    - [Layer 2 games and experiences](https://opensea.io/blog/guides/non-fungible-tokens/#Layer_2_games_and_experiences)
-    - [Hot Potatoes](https://opensea.io/blog/guides/non-fungible-tokens/#Hot_Potatoes)
-    - [Venture Capital interest](https://opensea.io/blog/guides/non-fungible-tokens/#Venture_Capital_interest)
-  - 2018 – 2019: Back to building
-    - [Digital art](https://opensea.io/blog/guides/non-fungible-tokens/#Digital_art)
-    - [NFT Minting Platforms](https://opensea.io/blog/guides/non-fungible-tokens/#NFT_Minting_Platforms)
-    - [Traditional IP dips its feet](https://opensea.io/blog/guides/non-fungible-tokens/#Traditional_IP_dips_its_feet)
-    - [Japan leads the way](https://opensea.io/blog/guides/non-fungible-tokens/#Japan_leads_the_way)
-    - [Virtual worlds expand](https://opensea.io/blog/guides/non-fungible-tokens/#Virtual_worlds_expand)
-    - [Trading card games](https://opensea.io/blog/guides/non-fungible-tokens/#Trading_card_games)
-    - [Decentralized naming services](https://opensea.io/blog/guides/non-fungible-tokens/#Decentralized_naming_services)
-    - [Other experiments](https://opensea.io/blog/guides/non-fungible-tokens/#Other_experiments)
-    - [Casualties and resuscitation](https://opensea.io/blog/guides/non-fungible-tokens/#Casualties_and_resuscitation)
-- Non-fungible token myths
-  - Scarcity alone drives demand
-    - [Smart contracts mean assets last forever](https://opensea.io/blog/guides/non-fungible-tokens/#Smart_contracts_mean_assets_last_forever)
-    - [Abstracting the chain away will solve all our problems](https://opensea.io/blog/guides/non-fungible-tokens/#Abstracting_the_chain_away_will_solve_all_our_problems)
-- The Non-Fungible Token Market
-  - [Current market size](https://opensea.io/blog/guides/non-fungible-tokens/#Current_market_size)
-  - [Market growth](https://opensea.io/blog/guides/non-fungible-tokens/#Market_growth)
-  - [Sale Mechanisms](https://opensea.io/blog/guides/non-fungible-tokens/#Sale_Mechanisms)
-  - [NFT Distribution](https://opensea.io/blog/guides/non-fungible-tokens/#NFT_Distribution)
-  - [What’s next for NFTs? Our 2020 predictions](https://opensea.io/blog/guides/non-fungible-tokens/#Whats_next_for_NFTs_Our_2020_predictions)
+  - [基于区块链的非同质化 token](#基于区块链的非同质化-token)
+    - [规格化](#规格化)
+    - [互操作性](#互操作性)
+    - [可交易性](#可交易性)
+    - [流动性](#流动性)
+    - [不变性和可证明的稀缺性](#不变性和可证明的稀缺性)
+    - [可编程性](#可编程性)
+- [非同质化 token 的标准](#非同质化-token-的标准)
+  - [ERC721](#ERC721)
+  - [ERC1155](#ERC1155)
+    - [可组合资产](#可组合资产)
+  - [非以太坊标准](#非以太坊标准)
+- [非同质化 token 元数据](非同质化-token-元数据)
+  - [链上和链下的对比](#链上和链下的对比)
+    - [链上元数据](#链上元数据)
+    - [链下元数据](#链下元数据)
+  - [链下存储解决方案](#链下存储解决方案)
+    - [中心化服务器](#中心化服务器)
+    - [IPFS](#IPFS)
+- [非同质化 token 的历史（2017-2020）](#非同质化-token-的历史（2017-2020）)
+  - [— 公元 0 年：在 CryptoKitties 之前](#— 公元-0-年：在-CryptoKitties-之前)
+  - [公元 0 年：CryptoKitties 的诞生](#公元-0-年：CryptoKitties-的诞生)
+    - [投机机制](#投机机制)
+    - [病毒式爆发的故事](#病毒式爆发的故事)
+  - [2018 年：炒作，棘手的游戏以及 layer 2](#2018-年：炒作，棘手的游戏以及-layer-2)
+    - [layer 2 的游戏及其体验](#layer-2-的游戏及其体验)
+    - [棘手的问题](#棘手的问题)
+    - [风险资本利息](#风险资本利息)
+  - [2018-2019：回归基础建设](#2018-2019：回归基础建设)
+    - [数字艺术](#数字艺术)
+    - [NFT 铸币平台](#NFT-铸币平台)
+    - [传统 IP 正在走下坡路](#传统-IP-正在走下坡路)
+    - [日本领衔行业](#日本领衔行业)
+    - [虚拟世界的扩大](#虚拟世界的扩大)
+    - [交易卡牌游戏](#交易卡牌游戏)
+    - [去中心化域名服务](#去中心化域名服务)
+    - [其他试验](#其他试验)
+    - [没落和复苏](#没落和复苏)
+- [非同质化 token 的神话](#非同质化-token-的神话)
+  - [稀缺性驱动需求](#稀缺性驱动需求)
+    - [智能合约意味着资产永存](#智能合约意味着资产永存)
+    - [抽象区块链将解决所有的问题](#抽象区块链将解决所有的问题)
+- [非同质化 token 的市场](#非同质化-token-的市场)
+  - [当前市场大小](#当前市场大小)
+  - [市场增长](#市场增长)
+  - [销售机制](#销售机制)
+  - [NFT 的分布](#NFT-的分布)
+  - [NFT 的下一步是什么？我们对 2020 年的预测](#NFT-的下一步是什么？我们对 2020 年的预测)
 
 ### 什么是非同质化 token
 
@@ -255,7 +255,7 @@ CryptoKitties 成功的另一个因素就是[这个故事写的那样](https://t
 
 ![image-20210317220554585](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210317220555.png)
 
-#### 2018年：炒作，棘手的游戏以及 layer 2
+#### 2018 年：炒作，棘手的游戏以及 layer 2
 
 尽管市场低迷，但CryptoKitties的成立为许多人提供了一个神奇的时刻。 第一次，一个团队部署了一个基于非金融区块链的应用程序，该应用程序已经进入了技术主流，尽管只有几个星期。 在CryptoKitties之后，随着投资者和企业家开始思考拥有数字资产的新方式，NFT在2018年初经历了第二次小规模炒作。
 
@@ -267,7 +267,7 @@ CryptoKitties 成功的另一个因素就是[这个故事写的那样](https://t
 
 ![image-20210318000227986](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210318000229.png)
 
-###### 棘手的问题
+##### 棘手的问题
 
 这一时期也出现了 “烫手山芋般” 的游戏。如果你已经知道什么是 “烫手山芋般” 的游戏，那你就是一个真正的 NFT 的老炮儿了。2018 年 1 月，一款名为 CryptoCelebrities 的游戏发布。它的机制很简单。首先，买一个可以收藏的明星 NFT 。当即，明星就变成了可以以更高的价格购买(或 “可掠夺” )的，这是之前价格的增量。当有人购买了你的明星，你就可以在你的购买价格和新购买价格之间做出调整(减去开发者费用)。只要有人愿意买你的明星，你就会获利。然而，如果你被发现是最后一个拥有明星的人，你就惨了。
 
@@ -393,13 +393,13 @@ CryptoKitties 的开发商 Dapper Labs 推出了一款名为 [CheezeWizards](htt
 
 #### 当前市场大小
 
-![image-20210320145451589](/home/whisker/.config/Typora/typora-user-images/image-20210320145451589.png)
+![image-20210320231017539](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210320231018.png)
 
 由于资产的现货价格缺乏权威定价，非同质化 token 的市场仍然很小，并且比加密货币市场更难衡量。 为了进行此分析，我们将重点放在二级交易量（即非同质化 token 的点对点交易）作为市场规模的指标。 使用该指标，我们估计当前的二级市场每月的交易量约为 **2 到 300 万美元**。 在过去的六个月中，这些项目主导了市场：
 
 #### 市场增长
 
-![与 NFT 交互的用户数，包括转交，出价，购买或出售。市场还处于早期但稳定增长。](/home/whisker/.config/Typora/typora-user-images/image-20210320145607057.png)
+![与 NFT 交互的用户数，包括转交，出价，购买或出售。市场还处于早期但稳定增长。](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210320230932.png)
 
 在 2018 年末的 CryptoKitties 泡沫之后，仅与 NFT 进行交互的帐户数量缓慢而稳定地增长，从 2018 年 2 月的约 8500 个帐户增加到 2019 年 12 月的 20000 多个帐户。 市场似乎是由超级用户所组成的大户群体所驱动的。 在 OpenSea 上，卖家已售出价值的中位数为 71.96 美元，而卖家已售出价值的平均数为 **1178 美元**，这表明有大量的大户卖家。 请注意，像官方游戏帐户这样的大帐户确实会提高平均值。 OpenSea 购买者的平均购买价值为 **943.81 美元**，购买者的购买价值中位数为 **42.72 美元**。
 
@@ -407,7 +407,7 @@ CryptoKitties 的开发商 Dapper Labs 推出了一款名为 [CheezeWizards](htt
 
 鉴于目前仍处于早期市场，衡量市场增长的最佳方法可能是查看一个领先指标：开发商对该领域的兴趣。 去年，随着新开发者进入该领域，主网 ERC721 合约的数量呈指数增长，到 2019 年 6 月达到 1000 多个。
 
-![image-20210320145823236](/home/whisker/.config/Typora/typora-user-images/image-20210320145823236.png)
+![image-20210320230854028](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210320230855.png)
 
 | 指标                         | 数量  |
 | ---------------------------- | ----- |
@@ -423,7 +423,7 @@ NFT 目前主要在去中心化交易所上交易得到 ETH 。 令人惊讶的�
 
 一个大家可能会问的问题是：各个 NFT 项目之间有什么重叠之处？ 项目周围的社区是否相对孤立（ Gods Unchained 玩家只能玩 Gods Unchained ），或者社区之间相互渗透过多？  CryptoKitties 发烧友是否也可能拥有 ENS 域名并参与数字艺术生态系统？
 
-![基于 OpenSea 上约 40 万个地址的原始数据分析所得的 NFT 网络图](/home/whisker/.config/Typora/typora-user-images/image-20210320151121452.png)
+![基于 OpenSea 上约 40 万个地址的原始数据分析所得的 NFT 网络图](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210320230812.png)
 
 [Takens Theorem](https://twitter.com/takenstheorem) 是一个匿名但非常友好的 Twitter 帐户，对区块链生态系统进行了一些精彩的分析（强烈建议关注！），对各 NFT 社区之间的交集进行了分析。上图是基于 OpenSea 上约 40 万个地址的元数据分析得到的网络图。在外环上，每个网络都由唯一拥有一种 NFT 类型的地址组成。图示的节点数代表实际数据中的节点数——例如，数千个地址仅拥有 CryptoKitty 。这些图中的节点按其拥有的大小来确定。
 
