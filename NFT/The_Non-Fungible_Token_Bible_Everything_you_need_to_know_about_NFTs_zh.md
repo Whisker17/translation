@@ -289,7 +289,7 @@ OpenSea 获得了[适度的种子轮](https://opensea.io/blog/announcements/open
 
 与此同时，数字艺术平台也出现了。[SuperRare](https://superrare.co/) ，[Known Origin](https://knownorigin.io/) ，[MakersPlace](https://makersplace.com/) 和 [Rare Art Labs](https://rareart.io/) 都建立了致力于发布和发现数字艺术的平台。像 [JOY](https://opensea.io/assets/joyworld-s2) 和 [Josie](https://opensea.io/assets/josie) 这样的其他艺术家也部署了自己的智能合约，在这个领域为自己创造了真正的品牌。拥有独特微支付系统的社交网络 [Cent](http://cent.co/) 成为人们分享和讨论加密艺术的热门社区。
 
-![img](https://lh3.googleusercontent.com/sJ-5wTKPHUJNePVxCGRV4UTsOf8TvY6r0ML89J9EuDWNrA8CljGT9TAhCv9afmyJJI2s8QNKcvbXP5erh0EKBjwX)
+![unnamed](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/img/20210321170003.gif)
 
 ##### NFT 铸币平台
 
